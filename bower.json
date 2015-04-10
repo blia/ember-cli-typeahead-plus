@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-typehead-plus",
+  "name": "ember-cli-typeahead.js-plus",
   "dependencies": {
     "jquery": "^1.11.1",
     "ember": "1.10.0",
