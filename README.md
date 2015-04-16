@@ -1,3 +1,5 @@
+# !!! ATTENTION !!!
+## This is version is just for testing blueprint. This now working solution right now. Came back later for great ember addon. :smile: Thx!
 # Ember-cli-typehead-plus
 
 This README outlines the details of collaborating on this Ember addon.
